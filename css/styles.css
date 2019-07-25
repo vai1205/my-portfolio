@@ -109,6 +109,9 @@ hr {
   height: 100px;
 }
 @media(max-width:545px){
+  .designation{
+    font-size: 1.3rem !important;
+  }
   h1 {
     font-size: 2.625rem;
   }
@@ -117,7 +120,7 @@ hr {
     font-size: 1.9rem;
   }
   .top-container {
-    padding-top: 1px;
+    padding: 1rem 2rem;
   }
   .jumbo-head{
     font-size: 2.5rem !important;
@@ -155,6 +158,6 @@ h1,h2,h3,h4,h5,h6{
   padding: 6%;
 }
 .container-for-mobile-social{
-  margin: 2rem 0; 
+  margin: 2rem 0;
 }
 }
